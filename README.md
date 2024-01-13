@@ -1,16 +1,36 @@
-### Hi there 👋
+# Hello, I'm Justin!
 
-<!--
-**Justin-Fernbaugh/Justin-Fernbaugh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Website](https://www.ju2tin.com/)
+[![Linkedin:](https://www.linkedin.com/in/justin-fernbaugh/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Tech 𝗜 𝗨𝘀𝗲
+
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>C++</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/c-plusplus.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Python</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Nodejs</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Javascript</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Rust</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/rust.svg">
+      </td>
+    </tr>
+  </tbody>
+</table>
+</br>
