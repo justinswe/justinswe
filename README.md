@@ -33,7 +33,7 @@
       </td>
       <td width="25%" align="center">
         <span>Terraform</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/rust.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/terraform-icon.svg">
       </td>
       <td width="25%" align="center">
         <span>Chef</span><br><br><br>
