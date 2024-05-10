@@ -32,13 +32,22 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/rust.svg">
       </td>
       <td width="25%" align="center">
+        <span>Terraform</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/rust.svg">
+      </td>
+      <td width="25%" align="center">
         <span>Chef</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/chef.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Openstack</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/openstack-icon.svg">
       </td>
       <td width="25%" align="center">
         <span>Ruby</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/ruby.svg">
       </td>
+      
     </tr>
   </tbody>
 </table>
