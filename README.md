@@ -47,7 +47,6 @@
         <span>Ruby</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/ruby.svg">
       </td>
-      
     </tr>
   </tbody>
 </table>
