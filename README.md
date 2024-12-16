@@ -10,7 +10,7 @@
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>GoLang</span><br><br><br>
+        <span>Go</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/go.svg">
       </td>
       <td width="25%" align="center">
@@ -30,32 +30,24 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/google-cloud.svg">
       </td>
       <td width="25%" align="center">
-        <span>GCP</span><br><br><br>
+        <span>AWS</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Javascript</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>C++</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/c-plusplus.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Python</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Rust</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/rust.svg">
       </td>
       <td width="25%" align="center">
         <span>Chef</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/chef.svg">
       </td>
       <td width="25%" align="center">
-        <span>Ruby</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/ruby.svg">
+        <span>C++</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/c-plusplus.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Javascript</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Python</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
     </tr>
   </tbody>
