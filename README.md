@@ -18,8 +18,20 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/terraform-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span>Nodejs</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
+        <span>Docker</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/docker-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Kubernetes</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/kubernetes.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>GCP</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/google-cloud.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>GCP</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg">
       </td>
       <td width="25%" align="center">
         <span>Javascript</span><br><br><br>
@@ -40,10 +52,6 @@
       <td width="25%" align="center">
         <span>Chef</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/chef.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Openstack</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/openstack-icon.svg">
       </td>
       <td width="25%" align="center">
         <span>Ruby</span><br><br><br>
