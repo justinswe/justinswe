@@ -1,6 +1,8 @@
 # Hello, I'm Justin!
 ## Software Engineer that focuses on backend & platform
 
+co-founder @ [lavndr.ai](https://www.lavndr.ai/) (my role is cloud architecture, system design, backend services/APIs, technical direction etc)
+
 [![Website](https://img.shields.io/badge/ju2tin-green?style=flat&label=Website&link=https%3A%2F%2Fju2tin.com)](https://www.ju2tin.com/)
 [![Linkedin:](https://img.shields.io/badge/-JustinFernbaugh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/justin-fernbaugh)](https://www.linkedin.com/in/justin-fernbaugh/)
 
